@@ -1,0 +1,9 @@
+{
+    "name": "veronicazzzz/todolistclient",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Veronicazzzz\\TodoListClient\\": "src/"
+        }
+    }
+}
